@@ -17,7 +17,7 @@ This App gives you an inclusive overview of crypto currencies.
 
 ## Demo Link
 
-https://zishan-cryptoapp.netlify.app/
+https://knowyourcrypto.netlify.app
 
 
 ## Screenshots
